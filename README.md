@@ -1,10 +1,4 @@
 ######
-#
-# Auther : Moaz Shaban
-# Date : 25-02.2025
-# Subject: Kubernetes NGINX Deployment with Minikube
-#
-######
 
 ## With this toutorial am using this infra:
 - VirtualBox installed in Windows 11 
