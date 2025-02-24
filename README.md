@@ -1,6 +1,6 @@
 ######
 
-# Subject: Kubernetes NGINX-INGRESS Deployment with Minikube
+# Kubernetes NGINX-INGRESS Deployment with Minikube
 
 ######
 
